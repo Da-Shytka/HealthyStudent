@@ -1,0 +1,7 @@
+{
+  "logoData": { "alt": "logo1", "src": "./assets/img/logo.svg", "href": "#" },
+  "menuData": [
+    { "title": "Главная", "href": "/" },
+    { "title": "Загрузка изображений", "href": "/imageGallery" }
+  ]
+}

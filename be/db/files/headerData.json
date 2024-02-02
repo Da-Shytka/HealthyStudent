@@ -1,0 +1,7 @@
+{
+  "logoData": { "alt": "logo1", "src": "./assets/img/logo.svg", "href": "#" },
+  "buttonsData": [
+    { "title": "Войти", "href": "/login", "isPrimary": false },
+    { "title": "Зарегистрироваться", "href": "/registration", "isPrimary": true }
+  ]
+}
